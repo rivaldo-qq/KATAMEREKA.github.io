@@ -14,3 +14,8 @@ fields:
 - type: list
   name: categories
   label: categories
+- name: isi
+  type: text
+  config:
+    required: false
+  label: ISI
