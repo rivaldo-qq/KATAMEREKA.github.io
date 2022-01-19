@@ -15,4 +15,5 @@ fields:
   name: categories
   label: categories
 pages:
+- content/post/coba-jalan.md
 - content/post/coba-kirim.md
