@@ -19,5 +19,3 @@ fields:
   config:
     required: false
   label: ISI
-pages:
-- content/post/coba-kirim.md
